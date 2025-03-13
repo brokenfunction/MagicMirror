@@ -94,7 +94,7 @@ let config = {
 			config: {
 				feeds: [
 					{
-						title: "New York ZALUPA",
+						title: "New York Times",
 						url: "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
 					}
 				],
